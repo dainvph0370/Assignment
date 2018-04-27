@@ -117,7 +117,7 @@
         		<td><input type="text" id="user"/><br /><span id="loiuser"></span></td>
         	</tr>
             <tr>
-            	<th style="text-align:left; font-size:14px;">* Email</th>
+            	<th style="text-align:left; font-size:14px;">* Emaill</th>
                 <td></td>
         		<td><input type="text" id="email"/><br /><span id="loiemail"></span></td>
             </tr>
